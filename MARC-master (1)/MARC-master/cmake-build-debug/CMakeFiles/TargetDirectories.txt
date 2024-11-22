@@ -1,3 +1,0 @@
-C:/Users/kawar/Desktop/MARC-master (1)/MARC-master/cmake-build-debug/CMakeFiles/untitled1.dir
-C:/Users/kawar/Desktop/MARC-master (1)/MARC-master/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kawar/Desktop/MARC-master (1)/MARC-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
